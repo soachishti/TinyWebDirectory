@@ -29,22 +29,26 @@ Category page
 **Database Structure:**
 
 
-category
-	|
-	|-	id
-	|-	name
-link
-	|
-	|-	id
-	|-	link
-	|-	name
-	|-	desc
-	|-	rel_id
-	|-	email
-	|-	approve
-	|-	time
-relation
-	|
-	|-	id
-	|-	cat_id
-	|-	child_id
+		category
+			|
+			|-	id
+			|-	name
+		link
+			|
+			|-	id
+			|-	link
+			|-	name
+			|-	desc
+			|-	rel_id
+			|-	email
+			|-	approve
+			|-	time
+		relation
+			|
+			|-	id
+			|-	cat_id
+			|-	child_id
+			
+License:
+------------
+TinyWebDirectory uses BSD 2-Clause License.
