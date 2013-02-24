@@ -26,8 +26,8 @@ Category page
 
 ![Category page](http://i.imgur.com/weqkIkH.jpg)
 
-Database Structure:
-------------
+**Database Structure:**
+
 
 category
 	|
